@@ -8,7 +8,7 @@
 #3. Change what you need to for the below script
 
 #Timer for checking GitHub for Latest Code - Edit this for shorter/longer timeouts as desired
-timeout=86400
+timeout=7200
 
 #Keeping track of a count just to see how many times this has ran
 count=1
