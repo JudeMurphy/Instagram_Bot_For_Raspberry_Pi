@@ -26,12 +26,12 @@ do
    cd ..
 
 #Add the correct Instagram Bot folder name:
-   cd Instabot-jude.murphy
+   cd Instabot-Local
    rm -rf instabot
    cd ..
 
 #Add your local paths for instabot, and your personal instabot fold name, below - I've added mine as examples:
-   cp -R /home/pi/Desktop/instabot/instabot /home/pi/Desktop/Instabot-jude.murphy/instabot
+   cp -R /home/pi/Desktop/instabot/instabot /home/pi/Desktop/Instabot-Local/instabot
 
    sleep $timeout
    count=$(($count+1))

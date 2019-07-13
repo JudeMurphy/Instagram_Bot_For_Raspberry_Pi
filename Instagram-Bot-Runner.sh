@@ -6,7 +6,7 @@
 #1. This script will run unendingly, and should be kicked off AFTER all of the prerequisites in the README.md file and in the Instagram-Bot-Update.sh script are met.
 
 #This should be the name of the folder that hold the local copy of your bot with your custom login for your account
-cd Instabot-jude.murphy
+cd Instabot-Local
 cd examples
 
 #Timeout between
