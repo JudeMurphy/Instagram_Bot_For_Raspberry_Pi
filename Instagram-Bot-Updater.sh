@@ -1,5 +1,7 @@
 #1/bin/bash
 
+#Written by Jude Murphy
+
 #Steps Before Running This Script
 #1. Clone https://github.com/instagrambot/instabot to your Desktop
 #2. Follow the README.md to this
