@@ -1,4 +1,4 @@
-# Setup an Instagram Bot on a Raspberry Pi running Raspbian
+# Instagram Bot Setup for Raspberry Pi
 
 ### Prerequisites
 1. Git
