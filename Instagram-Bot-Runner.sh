@@ -9,7 +9,7 @@
 cd Instabot-Local
 cd examples
 
-#Timeout between
+#Timeout between operations - Change as desired, but to be safe, you may want to keep this at 20 minutes (1200 seconds)
 timeout=1200
 count=1
 
