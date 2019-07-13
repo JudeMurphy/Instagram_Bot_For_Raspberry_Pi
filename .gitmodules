@@ -1,0 +1,3 @@
+[submodule "Instagram_Bot_For_Raspberry_Pi"]
+	path = Instagram_Bot_For_Raspberry_Pi
+	url = https://github.com/instagrambot/instabot
